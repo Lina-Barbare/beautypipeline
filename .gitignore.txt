@@ -1,0 +1,4 @@
+data/beauty_warehouse.duckdb
+data/cosmetics.csv
+__pycache__/
+*.pyc
