@@ -103,4 +103,4 @@ Le pipeline s'execute en moins d'une seconde et affiche un bilan complet.
 
 ## A propos
 
-Barbare Lina — Etudiante Master 1 Data Science — 2025
+Barbare Lina — Etudiante en Master Ingenieurie et sciences de données
